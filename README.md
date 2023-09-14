@@ -1,1 +1,1 @@
-# BattleSalvo_Server
+# BattleshipServer
